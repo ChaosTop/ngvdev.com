@@ -1,5 +1,5 @@
-baseURL: 'https://examplesite.com'
-title: ExampleSite
+baseURL: 'https://ngvdev.com'
+title: ngvdev
 paginate: 5
 theme: hugo-PaperMod
 
@@ -16,9 +16,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: 'ExampleSites description'
-  author: Me
+  title: ngvdev
+  description: 'ngv blog'
+  author: ngv
 
   images: "<link or path of image for opengraph, twitter-cards>"
 
@@ -32,7 +32,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: ngvdev
     # imageUrl: '<img location>'
     # imageTitle: my image
     buttons:
@@ -47,10 +47,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: 'https://twitter.com/'
-    - name: stackoverflow
-      url: 'https://stackoverflow.com'
+    #- name: twitter
+    #  url: 'https://twitter.com/'
+    #- name: stackoverflow
+    #  url: 'https://stackoverflow.com'
     - name: github
       url: 'https://github.com/'
 
