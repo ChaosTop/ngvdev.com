@@ -16,3 +16,5 @@ cover:
   caption: '<text>'
 comments: false
 ---
+
+![Minecraft](https://i.loli.net/2020/10/11/HvTmzkQlpUb3uFr.jpg)
